@@ -1,4 +1,4 @@
-# # Flask Pothole Detection with Image Classification
+Flask Pothole Detection with Image Classification
 
 This project utilizes image classification to detect various road conditions, including plain road, cracks, patches, and potholes, using Flask as a web application framework.
 
