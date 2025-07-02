@@ -12,8 +12,8 @@ This project aims to assist in road maintenance by detecting various road condit
    - Extracted video frames
    - Performed image filtering and cropping for model input
 3. **Model Training & Evaluation** –
-   - Trained a model using the annotated dataset
-   - Validated and tested detection accuracy on unseen road scenes
+   - Trained a model using the image dataset
+   - Validated and tested detection accuracy pothole on road
 
 ## Features
 
