@@ -11,3 +11,5 @@ This project aims to assist in road maintenance by detecting various road condit
 - Image classification of road conditions: plain road, cracks, patches, and potholes.
 - Web interface for uploading images and receiving analysis results.
 - Real-time processing and display of classification results.
+
+  ![Uploading image.png…]()
