@@ -12,4 +12,5 @@ This project aims to assist in road maintenance by detecting various road condit
 - Web interface for uploading images and receiving analysis results.
 - Real-time processing and display of classification results.
 
-  ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d0256964-80f3-4a7e-8888-acce053832e1)
+
