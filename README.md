@@ -6,7 +6,6 @@ This project utilizes image classification to detect various road conditions, in
 
 This project aims to assist in road maintenance by detecting various road conditions from images captured using a camera. By utilizing machine learning techniques, it categorizes road conditions into four classes: plain road, cracks, patches, and potholes. The system provides a user-friendly interface via a web application built with Flask, enabling users to upload images and receive real-time analysis of road conditions.
 
-### 📍 Key Tasks:
 1. **Data Collection** – Captured on-road driving videos around Johor Bahru using car-mounted cameras.
 2. **Image Annotation & Processing** – 
    - Extracted video frames
